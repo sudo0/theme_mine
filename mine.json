@@ -53,6 +53,8 @@
         "sideBar.background": "#292b2e",
         "sideBarTitle.foreground": "#ffffff",
         "sideBarSectionHeader.background": "#212026",
+        "titleBar.activeForeground": "#ffffff",
+        "titleBar.inactiveForeground": "#ffffff",
         "notification.foreground": "#ffffff",
         "notification.background": "#34323e",
         "notification.errorForeground": "#ffffff",
